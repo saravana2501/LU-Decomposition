@@ -9,18 +9,23 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 step 1:
+
 Input matrix A (coefficients) and vector b (constants).
 
 step 2:
+
 Perform LU decomposition of matrix A to get combined LU matrix and pivot array.
 
 step 3:
+
 Use the LU factors to solve the linear system AX = b.
 
 step 4:
+
 Compute the solution vector X.
 
 step 5:
+
 Output the result X.
 
 ## Program:
